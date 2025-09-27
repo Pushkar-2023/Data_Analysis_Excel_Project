@@ -1,7 +1,7 @@
-Executive Summary — E-commerce Sales Dashboard
+#Executive Summary — E-commerce Sales Dashboard
 One-line summary: Revenue performance shows clear seasonality and occasion-driven spikes; top categories and cities drive the majority of sales while delivery time shows room for improvement.
 
-Key Metrics (from dashboard)
+##Key Metrics (from dashboard)
 • Total Revenue: ₹ 35,20,984.00
 • Total Orders: 1000
 • Average Customer Spending: ₹ 3,520.98
