@@ -1,14 +1,14 @@
 # Executive Summary — E-commerce Sales Dashboard.
 One-line summary: Revenue performance shows clear seasonality and occasion-driven spikes; top categories and cities drive the majority of sales while delivery time shows room for improvement.
 
-## Key Metrics (from dashboard)
+## Key Metrics 
 • Total Revenue: ₹ 35,20,984.00
 • Total Orders: 1000
 • Average Customer Spending: ₹ 3,520.98
 • Average Delivery Duration: 5.53 days
 
 
-## Top Insights (what the dashboard shows)
+## Top Insights 
 •	Revenue has two prominent peaks during the year (an early-year peak and a mid/late-year peak), indicating seasonality and occasion-driven demand.
 •	Occasion-driven sales are significant — Anniversary and Raksha Bandhan are among the top occasions contributing to revenue; targeted campaigns around these occasions pay off.
 •	Category performance is skewed: the 'Colors' category is the highest revenue contributor, followed by Sweets and Soft Toys. Categories like Cakes and Plants show lower revenue.
@@ -17,7 +17,7 @@ One-line summary: Revenue performance shows clear seasonality and occasion-drive
 •	Hour-of-day analysis shows higher revenue in late afternoon/evening hours — optimize promotions/notifications for these slots.
 •	Average delivery time (~5.5 days) is higher than typical e‑commerce expectations; reducing this would likely improve repeat purchases and conversion.
 
-## Actionable Recommendations (priority-wise)
+## Actionable Recommendations 
 High priority (1-2 weeks)
 1.	Run targeted marketing campaigns for top occasions (Anniversary, Raksha Bandhan) 2–3 weeks before the date, with special bundles for top categories.
 2.	Prioritize inventory and fast restocking for top-selling SKUs (Magnum Set, Quia Gift, Dolores Gift) to avoid stockouts during peaks.
@@ -31,12 +31,12 @@ Longer term (2-6 months)
 8.	Implement Customer LTV and RFM segmentation to target retention campaigns for high-value cohorts.
 9.	Deploy a recommendation engine or simple collaborative filtering to increase repeat-purchase frequency.
 
-## Quick Wins (implement within days)
+## Quick Wins 
 •	Create a top-products email campaign for customers who bought similar items in the last 90 days.
 •	Enable cart abandonment SMS reminders during peak purchase hours (evenings).
 •	Highlight 'fast-moving' badges on product tiles for top SKUs to drive urgency.
 
-## Suggested Deeper Analyses (next steps for analysts/data team)
+## Suggested Deeper Analysis 
 •	RFM (Recency, Frequency, Monetary) segmentation to identify high-value customers for retention.
 •	Cohort analysis to measure retention and repeat-buy behavior by acquisition month and by occasion-campaign.
 •	Basket / Market-basket analysis (association rules) to identify product bundling opportunities.
